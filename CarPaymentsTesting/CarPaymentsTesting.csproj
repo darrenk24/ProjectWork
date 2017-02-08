@@ -54,6 +54,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="tstCustomer.cs" />
+    <Compile Include="tstPayments.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CarPaymentsLibrary\CarPaymentsLibrary.csproj">
